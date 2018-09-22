@@ -1,5 +1,5 @@
 ## Project Description 
-Laaso Regression Implementation
+Lasso Regression Implementation
 
 ## Packages used 
 - graphlab
