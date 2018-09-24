@@ -5,7 +5,7 @@ Lasso Regression Implementation
 - graphlab
 
 ## Used data set 
-[kc_house_data.gl](link to data you have)
+[kc_house_data.gl](https://github.com/Magho/Lasso-Regression/tree/master/kc_house_data.gl)
 
 # Algorithms used :
 - Coordinate Descent with normalized features.
